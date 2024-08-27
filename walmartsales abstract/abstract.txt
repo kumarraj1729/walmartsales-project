@@ -1,0 +1,5 @@
+This SQL query aims to analyze Walmart sales data. It will identify top-selling products, analyze sales trends over time, and uncover customer purchasing patterns. By using various SQL functions and aggregations, we will extract valuable insights to optimize inventory management, marketing strategies, and customer service. The analysis will focus on key metrics such as total sales, sales by product category, sales by region, and customer demographics.
+
+
+
+
